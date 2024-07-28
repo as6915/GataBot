@@ -12,21 +12,15 @@ import { en, es, id, ar, pt, fr } from './lib/idiomas/total-idiomas.js'
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 
 global.owner = [
-  ['593993684821', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈', true],
-  ['5492266466080', '𝙊𝙬𝙣𝙚𝙧 (1) 💻', true],
-  ['573046577392', '𝘼𝙯𝙖𝙢𝙞 𝙨𝙪𝙥𝙥𝙤𝙧𝙩 💝😼', true],
-  ['59894808483'],
-  ['5492266613038'],
-  ['584121083781'],
-  ['593968585383'],
-  ['5214531173598'],
-  ['5214531106422']
+  ['201028085788', '𝐸𝐿𝐴𝐾𝑅𝐸𝐵', true],
+  ['201028085788', '𝙊𝙬𝙣𝙚𝙧 (1) 💻', true],
+  ['201143638030', '𝙨𝙪𝙥𝙥𝙤𝙧𝙩', true],
 ]
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.mods = [] 
-global.prems = ['528451003894'] 
+global.prems = ['201028085788'] 
    
   
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰ 
@@ -140,56 +134,56 @@ global.moment = moment
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.official = [ // Agregate si eres Owner
-['18059196237', 'Gata Dios 💻', 1], 
-['5492266466080', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
-['5214531106422', '𝗖𝗿𝗲𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
-['5521989092076', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
-['5491173694367', 'Prueba', 1]] 
+['201028085788', '𝐸𝐿𝐴𝐾𝑅𝐸𝐵 💻', 1], 
+['201028085788', '𝐸𝐿𝐴𝐾𝑅𝐸𝐵 💻', 1],  
+['201028085788', '𝐸𝐿𝐴𝐾𝑅𝐸𝐵 💻', 1],
+['201028085788', '𝐸𝐿𝐴𝐾𝑅𝐸𝐵 💻', 1],
+['201028085788', '𝐸𝐿𝐴𝐾𝑅𝐸𝐵', 1]] 
 
 global.mail = '' //agrega tú correo
 global.desc = '' //agrega una descripción corta
 global.desc2 = '' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
 global.country = '' //agrega tú país ejemplo: 🇪🇨
 
-global.packname = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 🐈'
-global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
+global.packname = '𝐸𝐿𝐴𝐾𝑅𝐸𝐵'
+global.author = '𝐸𝐿𝐴𝐾𝑅𝐸𝐵'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.vs = '1.4.7'
 global.vsJB = '2.0'
 
-global.gt = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
-global.yt = 'https://youtube.com/@gatadios'
-global.yt2 = 'https://www.youtube.com/watch?v=Ko019wvu2Tc&t=71s'
-global.ig = 'https://www.instagram.com/gata_dios'
-global.md = 'https://github.com/GataNina-Li/GataBot-MD'
-global.fb = 'https://www.facebook.com/groups/872989990425789/'
+global.gt = '𝐸𝐿𝐴𝐾𝑅𝐸𝐵'
+global.yt = 'https://www.youtube.com/@Elakrab'
+global.yt2 = 'https://www.youtube.com/@Elakrab'
+global.ig = 'https://atom.bio/elakrabelyotyobr'
+global.md = 'https://www.youtube.com/@Elakrab'
+global.fb = 'https://www.youtube.com/@Elakrab'
 
 
-global.nna = 'https://chat.whatsapp.com/DVhu9S9Zr7cBFFl26N61U3' //UPDATE GATABOT
+global.nna = 'https://chat.whatsapp.com/L6waLqtO4Of2ttylZoLefD' //UPDATE GATABOT
 
-global.nn = 'https://chat.whatsapp.com/KwoMppqeh4lH27rNM4qEbz' //Grupo 1
+global.nn = 'https://chat.whatsapp.com/L6waLqtO4Of2ttylZoLefD' //Grupo 1
 
-global.nnn = 'https://chat.whatsapp.com/DUU638FK74P7KWmRAd4u4J' //Grupo 2
+global.nnn = 'https://chat.whatsapp.com/L6waLqtO4Of2ttylZoLefD' //Grupo 2
 
-global.nnnt = 'https://chat.whatsapp.com/Kt5EXwUhcO8Ay76CIDLs7d' //Grupo 3
+global.nnnt = 'https://chat.whatsapp.com/L6waLqtO4Of2ttylZoLefD' //Grupo 3
 
-global.nnntt = 'https://chat.whatsapp.com/K0UCo7igED92q9c1w2DiEH' //Grupo 4
+global.nnntt = 'https://chat.whatsapp.com/L6waLqtO4Of2ttylZoLefD' //Grupo 4
 
-global.nnnttt = 'https://chat.whatsapp.com/HJLpWS2BDrWCPH6uAUKIRG' //Grupo 5
+global.nnnttt = 'https://chat.whatsapp.com/L6waLqtO4Of2ttylZoLefD' //Grupo 5
 
-global.nnnttt2 = 'https://chat.whatsapp.com/F63pQpKCsWiF2zFXxhYnky' //Grupo 6 COL
+global.nnnttt2 = 'https://chat.whatsapp.com/L6waLqtO4Of2ttylZoLefD' //Grupo 6 COL
 
-global.nnnttt3 = 'https://chat.whatsapp.com/CcJKHrxGBWAAH3PiBL07JS' //Grupo 7 COL
+global.nnnttt3 = 'https://chat.whatsapp.com/L6waLqtO4Of2ttylZoLefD' //Grupo 7 COL
 
-global.nnnttt4 = 'https://chat.whatsapp.com/FT0pwTOl0KN5Hyea34Wca9' //Grupo 8 COL
+global.nnnttt4 = 'https://chat.whatsapp.com/L6waLqtO4Of2ttylZoLefD' //Grupo 8 COL
 
-global.nnnttt5 = 'https://chat.whatsapp.com/J8HOf2T3QYeKu3UN9UBkT6' //Grupo 9 COL
+global.nnnttt5 = 'https://chat.whatsapp.com/L6waLqtO4Of2ttylZoLefD' //Grupo 9 COL
 
 global.paypal = 'https://paypal.me/OficialGD'
 
-global.asistencia = 'Wa.me/18059196237' //Dudas? escríbeme...
+global.asistencia = 'Wa.me/201028085788' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -223,13 +217,13 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 : 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
-global.igfg = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
+global.wm = '𝐸𝐿𝐴𝐾𝑅𝐸𝐵 : 𝐸𝐿𝐴𝐾𝑅𝐸𝐵'
+global.igfg = '𝐸𝐿𝐴𝐾𝑅𝐸𝐵'
 global.wait = '*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*'
 global.waitt = '*⌛ _Cargando | Charging..._ ▬▬▭▭▭*'
 global.waittt = '*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*'
 global.waitttt = '*⌛ _Cargando | Charging..._ ▬▬▬▬▬▬▭*'
-global.nomorown = '593993684821'
+global.nomorown = '201028085788'
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf']
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
